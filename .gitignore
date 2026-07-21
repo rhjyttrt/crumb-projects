@@ -1,4 +1,10 @@
+# OS / System generated files
 .DS_Store
 Thumbs.db
-*.bak
 *.tmp
+
+# Editor / IDE temp files
+*.swp
+*~
+.vscode/
+.idea/
